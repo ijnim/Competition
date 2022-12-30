@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/86222332/210039567-c52611a4-e24f-4ad1-91f8-9a6628003ea9.png)
+
 [공모전 개인 프로젝트]
 
 - 기간 : 2022.11~2022.12
