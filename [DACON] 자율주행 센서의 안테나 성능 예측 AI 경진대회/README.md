@@ -1,1 +1,1 @@
-<img src="https://dacon.s3.ap-northeast-2.amazonaws.com/attach/talkboard/1/78412/1662182545256141.png">
+![image](https://user-images.githubusercontent.com/86222332/212373126-8d798c5d-9dad-4311-8470-a2a494a343bc.png)
