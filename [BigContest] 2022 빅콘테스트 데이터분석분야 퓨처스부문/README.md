@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/86222332/212375389-c81d8b28-5b44-4547-89ad-94ce13ef2557.png)
+<img src="https://user-images.githubusercontent.com/86222332/212375389-c81d8b28-5b44-4547-89ad-94ce13ef2557.png" width='300' height='400'>
 
 [공모전 팀 프로젝트]
 - 기간 : 2022.09~2022.10
