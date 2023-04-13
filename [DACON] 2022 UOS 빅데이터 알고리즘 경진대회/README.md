@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/86222332/210039567-c52611a4-e24f-4ad1-91f8-9a6628003ea9.png)
+<img src='https://user-images.githubusercontent.com/86222332/210039567-c52611a4-e24f-4ad1-91f8-9a6628003ea9.png' height=600 width=400/>
 
 [공모전 개인 프로젝트]
 
