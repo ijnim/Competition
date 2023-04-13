@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/86222332/231688215-c89dd66b-b8a6-4594-acb5-593192f267cf.png)
+<img src ="https://user-images.githubusercontent.com/86222332/231688215-c89dd66b-b8a6-4594-acb5-593192f267cf.png" heigjt=600 width=300/>
 
 [공모전 팀 프로젝트]
 - 기간 : 2022.09~2022.12
@@ -19,4 +19,4 @@
 
 ---
 
-<img src ="https://user-images.githubusercontent.com/86222332/231688691-3747abc1-08d7-499b-ae6f-d898fcbd9b67.png" heigjt=400 width=200/>
+<img src ="https://user-images.githubusercontent.com/86222332/231688691-3747abc1-08d7-499b-ae6f-d898fcbd9b67.png" heigjt=600 width=300/>
