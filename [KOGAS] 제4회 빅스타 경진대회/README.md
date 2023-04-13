@@ -16,3 +16,7 @@
 제공 데이터와 더불어 기상청 외부 데이터를 사용하였으며, 시계열 데이터를 다루기 위한 효과적인 모델 탐색 및 feature 생성에 초점을 맞추었다.
 본 팀은 효과적인 feature 생성 및 모델 탐색을 위해 feature 전처리 프로세스를 모듈화하였다. 또한, 타겟값 변환 및 클래스화를 통해 성능을 향상시켰으며, predictor & prescriptor 개발을 진행하여 솔루션을 효과적으로 제시하였다.
 필자는 본 프로젝트에서 EDA를 통한 feature 생성 및 predictor 개발을 도맡아 진행하였다.
+
+---
+
+![image](https://user-images.githubusercontent.com/86222332/231688691-3747abc1-08d7-499b-ae6f-d898fcbd9b67.png)
