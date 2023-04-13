@@ -18,4 +18,4 @@ DACON
 
 ---
 
-<img src='https://user-images.githubusercontent.com/86222332/231689814-bb0385c1-e307-4974-8dd3-417d6529f5a9.png' height=600 width=300/>
+<img src='https://user-images.githubusercontent.com/86222332/231689814-bb0385c1-e307-4974-8dd3-417d6529f5a9.png' height=600 width=400/>
