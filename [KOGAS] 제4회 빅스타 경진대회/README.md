@@ -19,4 +19,4 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/86222332/231688691-3747abc1-08d7-499b-ae6f-d898fcbd9b67.png)
+<img src ="https://user-images.githubusercontent.com/86222332/231688691-3747abc1-08d7-499b-ae6f-d898fcbd9b67.png" heigjt=400 width=200/>
